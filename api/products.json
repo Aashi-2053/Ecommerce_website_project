@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "name": "Saree",
+    "category": "Clothes",
+    "brand": "BanarasiSarees",
+    "price": 2999.99,
+    "stock": 50,
+    "description": "Beautiful Banarasi Saree crafted with real cotton and will suit you.",
+    "image": "/public/images/saree.png"
+  },
+  {
+    "id": 2,
+    "name": "Earrings",
+    "category": "Accessories",
+    "brand": "MiniFashion",
+    "price": 299.99,
+    "stock": 100,
+    "image": "public/images/earring.png",
+    "description": "Elegant earrings crafted to enhance any outfit with timeless style and modern charm."
+  },
+  {
+    "id": 3,
+    "name":"Men's T-shirt",
+  "category": "Clothes",
+  "brand": "Urban Threads",
+  "price": 899.99,
+  "stock": 30,
+  "image": "public/images/tshirt.png",
+  "description": "Stylish men's t-shirts offering comfort and versatility for any casual look."
+
+  },
+  {
+    "id": 4,
+    "name": "Shoes",
+    "category": "Footwear",
+    "brand": "StepFordge",
+    "price": 949.99,
+    "stock": 20,
+    "image": "public/images/shoes.png",
+    "description": "Trendy and durable shoes crafted for style and everyday comfort."
+
+  },
+  {
+    "id": 5,
+    "name": "Sweater",
+  "category": "Clothes",
+  "brand": "CozyNitwear",
+  "price": 1299.99,
+  "stock": 30,
+  "image": "public/images/sweat.png",
+  "description": "Soft, stylish sweaters designed for warmth and comfort in every season."
+
+  },
+  {
+    "id": 6,
+    "name": "Sandals",
+  "category": "Footwear",
+  "brand": "SunStride",
+  "price": 799.99,
+  "stock": 20,
+  "image": "public/images/sandal.png",
+  "description": "Chic and comfortable sandals perfect for effortless summer style."
+
+  },
+  {
+    "id": 7,
+    "name": "Wall Hangings",
+    "category": "Home Decor",
+    "brand": "Wallings",
+    "price": 249,
+    "stock": 50,
+    "description": "Beautiful wall hangings of different designs to make your home more beautiful.",
+    "image": "public/images/wall.png"
+  },
+{
+    "id": 8,
+    "name": "Decorative Candles",
+    "category": "Decors",
+    "brand": "Glowaura Candles",
+    "price": 100.00,
+    "stock": 45,
+    "description": "Handcrafted beautiful decorative candles that bring warmth, elegance, and a touch of luxury to any space.",
+    "image": "public/images/candle.png"
+  },
+
+{
+    "id": 9,
+    "name": "Wooden toys",
+    "category": "Toys",
+    "brand": "TreeHouse Toys",
+    "price": 280.00,
+    "stock": 98,
+    "description": "Charming, eco-friendly wooden toys crafted to inspire imagination and creativity in childres of all ages.",
+    "image": "public/images/toy.png"
+  }
+]
